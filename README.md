@@ -21,7 +21,7 @@ Or scan with a smartphone to View mobile version
 
 Or scan with a smartphone to View mobile version
 
-![QRcode!](/src/assets/images/portfolioQR.png "QRcode")
+![QRcode!](/images/portfolioQR.png "QRcode")
 
 #### technologies used:
 
