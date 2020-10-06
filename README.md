@@ -28,6 +28,4 @@ Or scan with a smartphone to View mobile version
 - ReactJs
 - CSS-Modules
 
-# 3 - Blog ain-wa-janah(عين وجناح)
-
-[Click here to view the website](http://ainwajanah.herokuapp.com/category/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa/).
+# 3 - Blog ain-wa-janah(عين وجناح) 
