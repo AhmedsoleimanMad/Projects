@@ -1,6 +1,6 @@
 # 1 - Aux Saveurs De Damas: Rue Puits-en-Sock 91, 4020 Liège
 
-[Click here to view the site](https://ahmedsoleimanmad.github.io/Aux-sav-de-damas.io/)
+[Live DEMO](https://ahmedsoleimanmad.github.io/Aux-sav-de-damas.io/)
 
 Or scan with a smartphone to View mobile version
 
@@ -17,11 +17,8 @@ Or scan with a smartphone to View mobile version
 
 # 2 - My portfolio
 
-[Click here to view the website](https://ahmedsoleimanmad.github.io/portfolio-react/#/).
+[https://ahmed-soleiman-madfaa.netlify.app/#/](https://ahmed-soleiman-madfaa.netlify.app/#/).
 
-Or scan with a smartphone to View mobile version
-
-![QRcode!](/images/portfolioQR.png "QRcode")
 
 #### technologies used:
 
