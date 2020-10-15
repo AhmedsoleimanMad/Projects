@@ -17,7 +17,7 @@ Or scan with a smartphone to View mobile version
 
 # 2 - My portfolio
 
-[https://ahmed-soleiman-madfaa.netlify.app/#/](https://ahmed-soleiman-madfaa.netlify.app/#/).
+[Live DEMO](https://ahmed-soleiman-madfaa.netlify.app/#/).
 
 
 #### technologies used:
