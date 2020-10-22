@@ -14,6 +14,8 @@ Or scan with a smartphone to View mobile version
 - Tools
   - [ScrollReveal.js](https://github.com/jlmakes/scrollreveal)
   - gulp.js
+  - Intersection Observer API
+- [Data](https://ahmedsoleimanmad.github.io/Aux-sav-de-damas.io/dist/menu.json) 
 
 # 2 - My portfolio
 
