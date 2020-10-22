@@ -26,5 +26,6 @@ Or scan with a smartphone to View mobile version
 
 - ReactJs
 - CSS-Modules
+- State Management (useReducer & useContext)
 
 # 3 - Blog ain-wa-janah(عين وجناح) 
